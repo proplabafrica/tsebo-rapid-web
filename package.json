@@ -1,0 +1,63 @@
+{
+  "name": "tsebo-rapid",
+  "version": "1.0.0",
+  "description": "Tsebo Rapid",
+  "author": "Damilola Saliu - Filmo Product Dev",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt --port 8030 --hostname 127.0.0.1",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "lint": "npx standard --fix",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^1.14.1",
+    "@nuxtjs/axios": "^5.6.0",
+    "@nuxtjs/dotenv": "^1.3.0",
+    "@nuxtjs/firebase": "^7.6.1",
+    "@nuxtjs/pwa": "^2.6.0",
+    "adonis-vue-websocket": "^2.0.2",
+    "adonis-websocket-client": "^1.0.2",
+    "apexcharts": "^3.32.0",
+    "core-js": "^2.6.5",
+    "corejs": "^1.0.0",
+    "cross-env": "^5.2.0",
+    "d3": "^7.2.0",
+    "firebase": "^8.10.0",
+    "jspdf": "^2.5.1",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.1",
+    "nuxt": "^2.6.3",
+    "nuxt-socket-io": "^2.0.0",
+    "pusher-js": "^7.0.3",
+    "read-excel-file": "^4.0.4",
+    "sass": "^1.45.0",
+    "save": "^2.4.0",
+    "smart-webcomponents": "^14.0.0",
+    "socket.io-client": "^4.4.0",
+    "v-calendar": "^2.4.1",
+    "vue": "^2.6.12",
+    "vue-apexcharts": "^1.6.2",
+    "vue-chartjs": "^3.4.0",
+    "vue-notification": "^1.3.20",
+    "vue-qrcode-component": "^2.1.1",
+    "vue-select": "^3.1.0",
+    "vue-server-renderer": "^2.6.12",
+    "vue-template-compiler": "^2.6.12",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.17",
+    "nodemon": "^1.18.9",
+    "sass-loader": "^10.1.1",
+    "standard": "^13.1.0",
+    "vue-loader": "^15.9.6"
+    
+  },
+  "prettier": {
+    "trailingComma": "none",
+    "tabWidth": 2
+  }
+}

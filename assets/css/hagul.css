@@ -1,0 +1,150 @@
+.hagul {
+  background-color: #fff;
+}
+
+.hagul .tx-primary {
+  color: rgb(192, 0, 0);
+}
+
+.hagul .tx-inverse {
+  color: #343a40;
+}
+
+.hagul a {
+  color: rgb(192, 0, 0);
+}
+
+.hagul a:hover {
+  color: rgb(254, 82, 82);
+}
+
+.hagul .slim-logo a {
+  color: #709842;
+}
+
+.hagul .slim-navbar .nav-item.active .nav-link {
+  background-color: rgb(192, 0, 0);
+  background-image: linear-gradient(to right, rgb(192, 0, 0) 0%, rgb(149, 2, 2) 100%);
+}
+
+.color-picker {
+  color: rgb(254, 82, 82)
+}
+
+.hagul .slim-navbar .nav-link .icon {
+  color: rgb(192, 0, 0);
+}
+
+.hagul .slim-navbar .nav-link .square-8 {
+  background-color: rgb(192, 0, 0);
+}
+
+.hagul .nav-activity-profile a:hover {
+  color: inherit;
+}
+
+.hagul .logged-user img {
+  border: 1px solid rgb(192, 0, 0);
+}
+
+.hagul .dropdown.dropdown-c .dropdown-menu .icon {
+  color: rgb(192, 0, 0);
+}
+
+.hagul .slim-navbar .sub-item ul a:hover,
+.hagul .slim-navbar .sub-item ul a:focus {
+  color: rgb(192, 0, 0);
+}
+
+.hagul .slim-navbar .mega-dropdown .sub-item .section-label {
+  color: rgb(192, 0, 0);
+}
+
+.hagul .slim-header-right .dropdown-a.show>a,
+.hagul .slim-header-right .dropdown-b.show>a,
+.hagul .header-notification .indicator {
+  background-color: rgb(192, 0, 0);
+}
+
+.hagul .slim-pagetitle {
+  border-left: 4px solid rgb(254, 82, 82);
+}
+
+.hagul .page-error-wrapper .btn-error {
+  border: 2px solid rgb(192, 0, 0);
+}
+
+.hagul .page-error-wrapper a.btn-error {
+  color: rgb(192, 0, 0);
+}
+
+.hagul .page-error-wrapper .btn-error:hover,
+.hagul .page-error-wrapper .btn-error:focus {
+  background-color: rgb(192, 0, 0);
+  color: #fff;
+}
+
+.hagul .btn-primary,
+.hagul .btn-primary:focus,
+.hagul .btn-primary:hover {
+  background-color: rgb(192, 0, 0);
+  border-color: rgb(192, 0, 0);
+  color: #fff;
+}
+
+.hagul .btn-signin {
+  background-image: linear-gradient(to right, rgb(192, 0, 0) 0%, rgb(149, 2, 2) 100%);
+}
+
+.hagul .btn-danger,
+.hagul .btn-danger:focus,
+.hagul .btn-danger:hover {
+  color: #fff;
+}
+
+.hagul .sp-container button:focus,
+.hagul .sp-container button.focus,
+.hagul .btn-primary:not(:disabled):not(.disabled):active:focus,
+.hagul .btn-primary:not(:disabled):not(.disabled).active:focus,
+.hagul .show>.btn-primary.dropdown-toggle:focus,
+.hagul .btn-primary:focus,
+.hagul .btn-primary.focus {
+  box-shadow: 0 0 0 0.2rem rgb(192, 0, 0);
+}
+
+.hagul .btn-primary:not(:disabled):not(.disabled):active,
+.hagul .btn-primary:not(:disabled):not(.disabled).active,
+.hagul .show>.btn-primary.dropdown-toggle {
+  background-color: rgb(192, 0, 0);
+  border-color: rgb(192, 0, 0);
+}
+
+.hagul .form-control:focus {
+  border-color: rgb(192, 0, 0);
+}
+
+.hagul .timeline-title a {
+  color: #343a40;
+}
+
+.hagul .timeline-day .timeline-body::before {
+  background-color: rgb(192, 0, 0);
+}
+
+.hagul .timeline-body::before {
+  border: 3px solid rgb(192, 0, 0);
+}
+
+.hagul .pagination .active .page-link,
+.hagul .pagination .active .page-link:hover,
+.hagul .pagination .active .page-link:focus {
+  background-color: rgb(192, 0, 0);
+}
+
+.hagul .page-link:focus {
+  box-shadow: 0 0 0 0.2rem #7ec86a;
+}
+
+.hagul .ckbox span:after {
+  background-color: rgb(192, 0, 0);
+}
